@@ -1,0 +1,27 @@
+.header {
+  text-align: center;
+}
+
+.logo {
+  width: 22%;
+}
+.header nav {
+  background-color: black;
+}
+.header nav ul {
+  display: flex;
+}
+.header nav ul li {
+  margin-right: 20px;
+  list-style-type: none;
+  line-height: 40px;
+}
+.header nav ul li a {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 16px;
+  color: white;
+}
+.header nav ul li:hover {
+  background-color: lightgray;
+}
