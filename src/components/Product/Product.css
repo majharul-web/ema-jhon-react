@@ -18,4 +18,9 @@
   border: lightgray;
   border-radius: 5px;
   cursor: pointer;
+  margin-top: 10px;
+}
+
+.rat-icon-color {
+  color: gold;
 }
